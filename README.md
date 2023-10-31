@@ -1,6 +1,6 @@
 # Shopping-Cart
 
-Your e-commerce website shopping cart serves as a crucial component in the overall shopping experience for your customers. Here's a detailed description of a typical shopping cart for an e-commerce website:
+This e-commerce website shopping cart serves as a crucial component in the overall shopping experience for your customers. Here's a detailed description of a typical shopping cart for an e-commerce website:
 
 Visual Representation: Upon adding items, the shopping cart is visually represented as an easily accessible icon or symbol.
 
